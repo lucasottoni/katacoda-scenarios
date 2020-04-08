@@ -1,0 +1,26 @@
+{
+  "title": "First test",
+  "description": "Primeiro teste do katacoda",
+  "difficulty": "Beginner",
+  "time": "1",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "editor-terminal"
+  },
+  "backend": {
+    "imageid": "kotlin:1.3.61"
+  }
+}
